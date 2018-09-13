@@ -1,0 +1,32 @@
+.ant-layout-sider .logo {
+    /* display: flex;
+    justify-content: space-between; */
+}
+.ant-layout-sider .logo img {
+    /* background-image: url("/images/michael_icon.png"); */
+    max-width: 100%;
+    max-height: 100%;
+    margin-top:6%;
+    margin-left: 6%;
+}
+.ant-layout-sider .logo span {
+    font-size: 16px;
+    padding: 8px;
+    color: white;
+    float: right;
+}
+
+
+/*new added*/
+.ant-layout-sider-children {
+	background: #000000;
+}
+
+.ant-menu-dark {
+	color: #d1d1d1;
+    background: #00000036
+}
+
+.App .ant-menu-item-selected {
+	background-color: #d9d9d95e !important;
+}
